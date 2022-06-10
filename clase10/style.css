@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+}
+.backgroundheader1 
+                    {background-color: #1CD1B0 ;
+                        color: #000000 ;
+                        height: 40px; }
+h1
+    {background-color: #00669F ;
+         color:black;
+          height:80px ;}
+footer , .botonvermas  
+                    {background-color: #00669F ;
+                         color:#FFF9F9}
+footer
+        {height: 40px;
+        margin-top: 20%;}
+i 
+    {color: #CC2424 ;
+        position:absolute;
+        top: 2% ;
+        left: 1%
+    }
+.fondogray
+        {background-color: #F3F3F3;
+        left: 30%;}
+.contenedor 
+            {position: relative; 
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+    }
+.elementobat1
+            { height: 33%;
+                width: 33%;
+                margin: 5%;
+            position: relative;
+            background-color: #F3F3F3;
+            border-radius: 20px;
+            }
+.elementoharley
+                {height: 33%;
+                    width: 33%;
+                    margin: 5%;
+                    position: relative;
+                    background-color: #F3F3F3;
+                    border-radius: 20px;
+                }
+.elementobat2
+                {height: 33%;
+                    width: 33%;
+                    margin: 5%;
+                    position: relative;
+                    background-color: #F3F3F3;
+                    border-radius: 20px;
+                }
+
+header
+    {
+        position:sticky; top:15px;
+        z-index: 888;
+        margin-bottom: 20%;
+    }
+.imgr1 , .imgr2 , .imgr3 
+                        {
+                            border-radius: 50% ; 
+                        }
+.imgr1 
+{
+    position: absolute;
+    left: 30% ;  
+    top: 30% 
+}
+
+.imgr2 { 
+    position: absolute;
+    left:30%;
+    top: 30%;
+        }
+
+.imgr3
+{      position: absolute;
+    left:30%;
+    top: 30%;
+
+}
+
+.botonvermas {
+    position: absolute;
+
+    height: 25px;
+    width: 65px;
+    text-align: center;
+    left:30%;
+
+}
+
